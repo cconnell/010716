@@ -1,0 +1,6 @@
+class Card
+
+def initialize(question, answer)
+  @question 
+  @answer
+end
